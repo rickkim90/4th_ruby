@@ -8,6 +8,6 @@
     
 
 - 참고 웹사이트
-        - https://github.com/jnunemaker/httparty#examples
-        - https://github.com/sparklemotion/nokogiri
-        - https://www.joinc.co.kr/w/Site/Ruby/File
+    * https://github.com/jnunemaker/httparty#examples
+    * https://github.com/sparklemotion/nokogiri
+    * https://www.joinc.co.kr/w/Site/Ruby/File
