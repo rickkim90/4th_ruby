@@ -3,7 +3,7 @@
 ---
 ## 1. Week 1 : Ruby
 - day 1 : Ruby 입문 :
-    * Ruby 활용 점심메뉴, 미세먼지, 로또번호 추천 (http://chatbot.likelion.io/)
+    * Ruby 활용 기초 함수 : 점심메뉴, 미세먼지, 로또번호 추천 (http://chatbot.likelion.io/)
     * Ruby 활용 Scraping : Nokogiri, HTTParty
     * https://github.com/jnunemaker/httparty#examples
     * https://github.com/sparklemotion/nokogiri
